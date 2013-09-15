@@ -91,6 +91,13 @@
             android:persistent="true"
             android:summary="@string/rejected_as_missed_sum" />
 
+	<CheckBoxPreference
+	   android:key="transparent_in_call_widget"
+	   android:title="@string/transparent_in_call_widget"
+	   android:summary="@string/transparent_in_call_widget_summary"
+	   android:persistent="true"
+	   android:defaultValue="false" />
+
     </PreferenceCategory>
 
   <PreferenceCategory
