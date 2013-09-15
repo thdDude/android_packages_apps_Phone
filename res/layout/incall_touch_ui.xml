@@ -224,7 +224,6 @@
         android:layout_gravity="center|bottom"
         android:orientation="vertical"
         android:gravity="bottom"
-        android:background="@android:color/transparent" 
         android:background="@color/incall_call_banner_background" >
 
 
